@@ -1,0 +1,5 @@
+1)Create Test Approach
+2)Conduct Acceptance Test
+3)Start System Test Creation
+4)Determine Data Requirements
+5)Create an inventory of test items
