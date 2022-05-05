@@ -1,0 +1,4 @@
+1:Basic theory,
+2:SQL basics,
+3: API,
+4: Mobile testing
